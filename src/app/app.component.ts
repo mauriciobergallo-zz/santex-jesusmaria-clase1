@@ -16,5 +16,5 @@ import { Component } from '@angular/core';
   styles: []
 })
 export class AppComponent {
-  title = 'Curso de Nivelación "Jesús María" - Clase #1!!!';
+  title = 'Nuevo título de aplicación en Angular';
 }
