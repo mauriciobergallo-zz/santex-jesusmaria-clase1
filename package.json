@@ -27,5 +27,17 @@
     "@angular/compiler-cli": "~12.2.0",
     "@types/node": "^12.11.1",
     "typescript": "~4.3.5"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciobergallo/santex-jesusmaria-clase1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauriciobergallo/santex-jesusmaria-clase1/issues"
+  },
+  "homepage": "https://github.com/mauriciobergallo/santex-jesusmaria-clase1#readme"
 }
